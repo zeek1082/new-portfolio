@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'James Smith - UX Leader',
+  name: 'James Smith',
   title: 'James Smith',
   shortName: 'James Smith',
   description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
