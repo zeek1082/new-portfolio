@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'James Smith',
     author: 'James Smith',
-    description: 'Product Design and UX Leader',
+    description: 'A Product Design and UX Leader who loves to deliver compelling experiences',
     siteUrl: urljoin(siteConfig.url, siteConfig.prefix),
     social: {
       twitter: siteConfig.twitter,
