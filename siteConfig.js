@@ -1,5 +1,6 @@
 module.exports = {
   name: 'James Smith - UX Leader',
+  title: 'James Smith',
   shortName: 'James Smith',
   description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
   url: 'https://jamespsmith.me', // Domain of your site without prefix!

@@ -21,7 +21,7 @@ const ElementsPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <p>
-            This is{" "}
+            You are{" "}
             <strong>
               <strong>bold</strong>
             </strong>{" "}
