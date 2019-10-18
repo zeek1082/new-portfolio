@@ -1,5 +1,5 @@
 ---
-title: Darkness
+title: D3PTH
 date: "2019-05-08"
 thumbnail: ./d3pth-main.png
 description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
