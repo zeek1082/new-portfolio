@@ -6,5 +6,10 @@ description: What if everything you knew was turned to blue?
 ---
 
 ![It's all blue](./cody-davis-253925-unsplash.jpg)
+<div>
+<p>
+What is going on here?
+</p>
+</div>
 
 ![It's all blue](./cody-davis-259003-unsplash.jpg)
