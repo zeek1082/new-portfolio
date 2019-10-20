@@ -1,7 +1,7 @@
 ---
-title: It's all blue
+title: Primase - Design System
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
+thumbnail: ./design-system.png
 description: What if everything you knew was turned to blue?
 ---
 
