@@ -1,8 +1,8 @@
 ---
-title: D3PTH
+title: D3PTH - iOS App
 date: "2019-05-08"
 thumbnail: ./d3pth-main.png
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+description: Your digital companion when you hit the slopes. Never wonder when the powder will hit again. D3pth delivers up the minute snow reports.
 ---
 
 ### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)

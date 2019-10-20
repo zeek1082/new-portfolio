@@ -1,7 +1,7 @@
 ---
-title: All spikes
+title: Carrier Screening - Guided Education
 date: "2019-05-04"
-thumbnail: ./charles-deluvio-695732-unsplash.jpg
+thumbnail: ./pretest.png
 description: A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
 ---
 
