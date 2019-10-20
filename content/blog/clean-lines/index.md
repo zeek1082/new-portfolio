@@ -1,7 +1,7 @@
 ---
-title: Clean lines
+title: Wells Fargo iOS App
 date: "2019-05-05"
-thumbnail: ./matthew-hamilton-351641-unsplash.jpg
+thumbnail: ./wells.png
 description: Let your hair down and paint the town red
 ---
 
