@@ -16,3 +16,7 @@ We started out by doing an inventory of all of our portals (Provider and Patient
 We also took into consideration some survey work that had been done previously to determine what was important to our users. This was importan for us to use to determine the look and feel of everything we designed.
 
 ![It's all blue](./surveys.png)
+[It's all blue](./panels.png)
+[It's all blue](./primary-buttons.png)
+[It's all blue](./depth.png)
+
