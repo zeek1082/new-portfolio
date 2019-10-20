@@ -1,6 +1,6 @@
 ---
 title: AutoGravity - Web App 
-date: "2019-05-07"
+date: "2019-10-16"
 thumbnail: ./ag-green.png
 description: AutoGravity is a service that allows users to shop for cars and get their financing all from their smartphone.
 ---

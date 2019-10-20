@@ -1,7 +1,7 @@
 ---
 title: Wells Fargo iOS App
-date: "2019-05-05"
-thumbnail: ./wells.png
+date: "2019-10-19"
+thumbnail: ./wells-3.png
 description: This project was to redesign Wells Fargo's mobile app with tht goal of making the most common actions avaiable an easy to interact with on the home screen.
 ---
 Wells Fargo wanted a redesign of their mobile application that improved the user experience while also making the ui more modern. The main emphasis on the project was making it easier for the user to complete common tasks.
