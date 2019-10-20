@@ -16,7 +16,25 @@ We started out by doing an inventory of all of our portals (Provider and Patient
 We also took into consideration some survey work that had been done previously to determine what was important to our users. This was importan for us to use to determine the look and feel of everything we designed.
 
 ![It's all blue](./surveys.png)
-[It's all blue](./panels.png)
-[It's all blue](./primary-buttons.png)
-[It's all blue](./depth.png)
+### Creating Modular elements and components
+We wanted to have a look and feel that was mostly neutral to allow for use across different business units and that allowed for individal theming. We used our parent brand blues mostly for main components while allowing for accent colors for different products.
+![It's all blue](./panels.png)
+![It's all blue](./primary-buttons.png)
+![It's all blue](./depth.png)
+![It's all blue](./system.png)
+
+
+### Using the design system for different products
+We used the new system for the redesign of both our provider and patient portals. Almost instantly, you could start to see the how cohesive the look and feel became. No longer did they look like two different companies. We now had brand consistency, at least within the Women's Health Business Unit.
+
+
+![It's all blue](./patient-2.png)
+![It's all blue](./patient-3.png)
+
+![It's all blue](./order.png)
+![It's all blue](./result.png)
+### Next Steps
+We are still in the process of working on illustrations and motions for the design system. We have a solid baseline for the illustrations and iconography direction so far.
+
+
 
