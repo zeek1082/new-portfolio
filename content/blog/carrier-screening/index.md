@@ -5,9 +5,9 @@ thumbnail: ./pretest.png
 description: A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
 ---
 
-![Cactus](./ideation-1.png)
+![Cactus](./ideations-1.png)
 
-![Cactus](./ideation-2.png)
+![Cactus](./ideations-2.png)
 
 ![Cactus](./charles-deluvio-695758-unsplash.jpg)
 
