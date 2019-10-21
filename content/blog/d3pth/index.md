@@ -5,26 +5,34 @@ thumbnail: ./d3pth-main.png
 description: Your digital companion when you hit the slopes. Never wonder when the powder will hit again. D3pth delivers up the minute snow reports.
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
+### A fun side project to design something for one of my favorite activities. Snowboarding!
 
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
+There are a couple of apps the I have used to get snow reports, but none of them were very modern looking or well designed in general. I tasked myself with coming up with a design based on an API I found online. I knew exactly what Data we would be able to grab and I based the functionality on that.
 
-This is the final render.
+
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_II_desktop-1.jpg)
+![Darkness](./scrollable.png)
+</div>
+
+### Scrollable content cards
+
+There are a couple of apps the I have used to get snow reports, but none of them were very modern looking or well designed in general. I tasked myself with coming up with a design based on an API I found online. I knew exactly what Data we would be able to grab and I based the functionality on that.
+
+<div class="kg-card kg-image-card kg-width-full">
+
+
+![Darkness](./scroll.png)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-full">
+### Figma Prototype
 
-![Darkness](./BLACK_IX_desktop-1.jpg)
-
-</div>
+Here is a quick prototype I created to handoff to the iOS engineer I am working with. It helps with our development process to show some of the interactions and the overall flow.
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_I_desktop-1.jpg)
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FOYY45zTQm4uuMj8tzZBErA%2FD3PTH%3Fnode-id%3D241%253A551%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 </div>
