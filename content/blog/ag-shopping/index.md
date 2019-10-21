@@ -1,6 +1,7 @@
 ---
 title: AutoGravity - Shopping Experience
 date: "2019-10-18"
+thumbnail: ./logo.png
 description: A redesign of our shopping experience based on user reseaerch and focus groups.
 ---
 <div class="kg-card kg-image-card kg-width-full">
