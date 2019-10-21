@@ -84,7 +84,7 @@ href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
 src="https://c.statcounter.com/9344283/0/363940f2/1/"
 alt="free web stats"></a></div></noscript>
-<!-- End of Statcounter Code --></noscript>
+<!-- End of Statcounter Code -->
 </div>
         
       </footer>
