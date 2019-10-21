@@ -1,6 +1,6 @@
 ---
 title: D3PTH - iOS App
-date: "2019-05-08"
+date: "2019-05-09"
 thumbnail: ./d3pth-main.png
 description: Your digital companion when you hit the slopes. Never wonder when the powder will hit again. D3pth delivers up the minute snow reports.
 ---
