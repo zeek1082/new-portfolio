@@ -69,22 +69,6 @@ const Layout = props => {
           Gatsby
         </a>
         <div>
-        <!-- Default Statcounter code for Jamespsmith.me
-http://jamespsmith.me -->
-<script type="text/javascript">
-var sc_project=9344283; 
-var sc_invisible=1; 
-var sc_security="363940f2"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="free web stats"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/9344283/0/363940f2/1/"
-alt="free web stats"></a></div></noscript>
-<!-- End of Statcounter Code -->
 </div>
         
       </footer>
