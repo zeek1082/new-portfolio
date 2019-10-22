@@ -49,6 +49,14 @@ const Layout = props => {
               >
                 LinkedIn
               </a>
+              <a
+                href="https://docs.google.com/document/d/10DyCf2lk-zIbwc27B37Eq5Q5ZFgTWz_BM-jl47nJwRk/edit?usp=sharing"
+                title="My Resume"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                My Resume
+              </a>
             </div>
           </div>
         </div>
