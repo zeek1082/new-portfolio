@@ -12,7 +12,7 @@ AutoGravity worked with a consulting agency to design a prototype for a Proof of
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Don't stop](./AutoGravity-Vehicle-Details-1.png)
+![Don't stop](./details.png)
 </div>
 
 ### It all starts with the shopping experience
@@ -20,12 +20,12 @@ The ability to easily find the right model is key for this experience. Users wan
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Don't stop](./AutoGravity-Make-Landing-1.png)
+![Don't stop](./landing-1.png)
 </div>
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Don't stop](./AutoGravity-Model-Landing-1.png)
+![Don't stop](./model-landing.png)
 </div>
 
 ### Filtering inventory was a feature that our users requested from us in app store reviews
@@ -33,7 +33,7 @@ We knew we needed the ability to filter inventory, but when it should be priorit
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Don't stop](./AutoGravity-Inventory-1.png)
+![Don't stop](./inventory-1.png)
 </div>
 
 ### Optimizing the credit application through A/B testing
@@ -41,7 +41,7 @@ We wanted to increase the percentage of users that completed our credit applicat
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Don't stop](./AutoGravity-Credit-Application-1.png)
+![Don't stop](./credit.png)
 </div>
 
 
