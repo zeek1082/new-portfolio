@@ -16,10 +16,13 @@ During our concepting, we narrowed our options down to two. We did a few rounds 
 
 ![Cactus](./user-testing.png)
 
+<div class="proto-small">
+
 ### Figma Prototype
 Expand the prototype and click through to see the entire flow. This is a screen by screen prototype of the patient experience. This prototype was used to get feedback from stakeholders during the process.
 <div class="kg-card kg-image-card kg-width-full">
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FdZI1SrkeYVc0NjX447CYDQJx%2FDorsata-Exploration%3Fnode-id%3D438%253A230%26scaling%3Dscale-down" allowfullscreen></iframe>
 
+</div>
 </div>

@@ -533,6 +533,11 @@ body {
     }
 }
 
+@media (max-width:500px){
+    .proto-small {
+        display:none;
+    }
+}
 .post-content-image {
     margin: 4vw 0;
     position: relative;
