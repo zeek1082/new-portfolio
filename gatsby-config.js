@@ -17,7 +17,14 @@ module.exports = {
       options: {
         trackingId: `UA-15069294-1`,
         head: true,
-        anonimize: true,
+        anonimize: true
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/blog`,
+        name: `blog`,
       },
     },
     {
